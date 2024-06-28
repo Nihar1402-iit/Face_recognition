@@ -12,11 +12,9 @@ This repository contains a face matching application that utilizes OpenCV and fa
 
   
 *CLICK ON THE IMAGE FOR THE DEMONSTRATION VIDEO*
-[![Face Matching Application](https://github.com/Nihar1402-iit/Face_recognition/assets/117573996/6038f1ce-aea8-48cd-bb68-ee427a1a163a)](https://drive.google.com/drive/my-drive?q=after:2024-06-28%20parent:0AP7xb26ni-eIUk9PVA)
+[![Face Matching Application](https://github.com/Nihar1402-iit/Face_recognition/assets/117573996/6038f1ce-aea8-48cd-bb68-ee427a1a163a)](https://drive.google.com/file/d/1UZq-fmx7oasVgGOdERKafSyoRgxbgwPg/view?usp=sharing)
 
 
-*CLICK ON THE IMAGE FOR THE DEMONSTRATION VIDEO*
-[![Face Matching Application](https://github.com/Nihar1402-iit/Face_recognition/assets/117573996/6038f1ce-aea8-48cd-bb68-ee427a1a163a)](face_matching.mp4)
 
 ---
 
@@ -34,4 +32,4 @@ These codes use face recognition techniques to match faces from an uploaded imag
   
 
 *CLICK ON THE IMAGE FOR THE DEMONSTRATION VIDEO*
-[![Face Recognition and Matching Application](https://github.com/Nihar1402-iit/Face_recognition/assets/117573996/567ae39e-8e6a-45ce-a46c-d00ffdd2ec72)](https://drive.google.com/drive/my-drive?q=after:2024-06-28%20parent:0AP7xb26ni-eIUk9PVA)
+[![Face Recognition and Matching Application](https://github.com/Nihar1402-iit/Face_recognition/assets/117573996/567ae39e-8e6a-45ce-a46c-d00ffdd2ec72)](https://drive.google.com/file/d/1HXKn4kkteoF3jjt5SP8ScNe_iWq-D-wq/view?usp=sharing)
