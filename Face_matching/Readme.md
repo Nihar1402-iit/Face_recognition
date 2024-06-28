@@ -9,6 +9,8 @@ This repository contains a face matching application that utilizes OpenCV and fa
 - **Real-Time Threshold Update**: Adjust the face matching threshold dynamically through the GUI.
 - **Key Press Monitoring**: Monitor for key presses (e.g., 'q' to quit) to provide easy control over the application.
 - **Display Matching Results**: Show the matched images side by side for visual confirmation.
+
+  
 *CLICK ON THE IMAGE FOR THE DEMONSTRATION VIDEO*
 [![Face Matching Application](https://github.com/Nihar1402-iit/Face_recognition/assets/117573996/6038f1ce-aea8-48cd-bb68-ee427a1a163a)](https://youtu.be/_PTEDfMFPOw)
 
