@@ -10,7 +10,7 @@ This repository contains a face matching application that utilizes OpenCV and fa
 - **Key Press Monitoring**: Monitor for key presses (e.g., 'q' to quit) to provide easy control over the application.
 - **Display Matching Results**: Show the matched images side by side for visual confirmation.
 
-[![Face Matching Application](Face_matching/face_rec.png)](face_matching.mp4)
+[![Face Matching Application](Face_matching/Face_rec_1.png)](Face_matching/face_matching.mp4)
 
 ---
 
@@ -25,4 +25,4 @@ These codes use face recognition techniques to match faces from an uploaded imag
 - **Real-Time Matching**: Display matching results and matched images using OpenCV for visualization.
 - **Keyboard Monitoring**: Monitor keyboard events to control application flow (e.g., 'q' to quit).
 
-[https://github.com/Nihar1402-iit/Face_recognition/blob/main/Face_matching/Face_rec_2.png?raw=true](https://example.com/face_recognition_demo)
+[![Face Recognition and Matching Application](Face_matching/Face_rec_2.png)](Face_matching/face_matching2.mp4)
