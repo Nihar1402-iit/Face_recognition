@@ -36,6 +36,6 @@ The code is divided into several sections:
 
     
 *CLICK ON THE IMAGE FOR THE DEMONSTRATION VIDEO*
-[![Face Matching Application](https://github.com/Nihar1402-iit/Face_recognition/assets/117573996/6038f1ce-aea8-48cd-bb68-ee427a1a163a)](https://drive.google.com/file/d/1UZq-fmx7oasVgGOdERKafSyoRgxbgwPg/view?usp=sharing)
+[![Face Matching Application](https://github.com/Nihar1402-iit/Face_recognition/assets/117573996/6038f1ce-aea8-48cd-bb68-ee427a1a163a)](https://drive.google.com/file/d/1p9C-ESUkLDuE8_9r7vIhqcQEGBo5ERcM/view?usp=sharing)
 
-
+[![Face Matching Application](https://github.com/Nihar1402-iit/Face_recognition/assets/117573996/6038f1ce-aea8-48cd-bb68-ee427a1a163a)](https://drive.google.com/file/d/1oddUzS4gmqVqDpWNNEdtbAWj3Wkz_a8y/view?usp=sharing)
