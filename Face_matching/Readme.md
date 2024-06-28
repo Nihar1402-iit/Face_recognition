@@ -25,4 +25,4 @@ These codes use face recognition techniques to match faces from an uploaded imag
 - **Real-Time Matching**: Display matching results and matched images using OpenCV for visualization.
 - **Keyboard Monitoring**: Monitor keyboard events to control application flow (e.g., 'q' to quit).
 
-[![Face Recognition and Matching Application](images/face_recognition_app.png)](https://example.com/face_recognition_demo)
+[![(https://github.com/Nihar1402-iit/Face_recognition/blob/main/Face_matching/Face_rec_2.png?raw=true)](images/face_recognition_app.png)](https://example.com/face_recognition_demo)
