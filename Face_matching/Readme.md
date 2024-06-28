@@ -14,6 +14,10 @@ This repository contains a face matching application that utilizes OpenCV and fa
 *CLICK ON THE IMAGE FOR THE DEMONSTRATION VIDEO*
 [![Face Matching Application](https://github.com/Nihar1402-iit/Face_recognition/assets/117573996/6038f1ce-aea8-48cd-bb68-ee427a1a163a)](https://drive.google.com/drive/my-drive?q=after:2024-06-28%20parent:0AP7xb26ni-eIUk9PVA)
 
+
+*CLICK ON THE IMAGE FOR THE DEMONSTRATION VIDEO*
+[![Face Matching Application](https://github.com/Nihar1402-iit/Face_recognition/assets/117573996/6038f1ce-aea8-48cd-bb68-ee427a1a163a)](Face_matching/face_matching.mp4)
+
 ---
 
 # Face Recognition and Matching Application (face_matching2.ipynb)
