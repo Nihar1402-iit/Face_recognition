@@ -10,8 +10,8 @@ This repository contains a face matching application that utilizes OpenCV and fa
 - **Key Press Monitoring**: Monitor for key presses (e.g., 'q' to quit) to provide easy control over the application.
 - **Display Matching Results**: Show the matched images side by side for visual confirmation.
 *CLICK ON THE IMAGE FOR THE DEMONSTRATION VIDEO*
-[![Face Matching Application](https://github.com/Nihar1402-iit/Child-Safety-App/assets/117573996/f78430da-79e8-4a4a-b8d1-15e0a73f4fa5)](https://youtu.be/_PTEDfMFPOw)
-[![Face Matching Application](Face_matching/face_rec.png)](Face_matching/face_matching.mp4)
+[![Face Matching Application](https://github.com/Nihar1402-iit/Face_recognition/assets/117573996/6038f1ce-aea8-48cd-bb68-ee427a1a163a)](https://youtu.be/_PTEDfMFPOw)
+
 
 ---
 
