@@ -34,3 +34,8 @@ The code is divided into several sections:
 ### Running the Application
 - To start the application, simply run the script. Press 'q' to quit the webcam feed.
 
+    
+*CLICK ON THE IMAGE FOR THE DEMONSTRATION VIDEO*
+[![Face Matching Application](https://github.com/Nihar1402-iit/Face_recognition/assets/117573996/6038f1ce-aea8-48cd-bb68-ee427a1a163a)](https://drive.google.com/file/d/1UZq-fmx7oasVgGOdERKafSyoRgxbgwPg/view?usp=sharing)
+
+
