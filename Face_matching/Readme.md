@@ -1,4 +1,4 @@
-# Face Matching Application(face_matching.ipynb)
+# Face Matching Application (face_matching.ipynb)
 
 This repository contains a face matching application that utilizes OpenCV and face_recognition libraries to match faces from two sets of images. The application includes a GUI built with Tkinter for user interaction and supports real-time threshold updates and key press monitoring for a seamless experience.
 
@@ -10,11 +10,11 @@ This repository contains a face matching application that utilizes OpenCV and fa
 - **Key Press Monitoring**: Monitor for key presses (e.g., 'q' to quit) to provide easy control over the application.
 - **Display Matching Results**: Show the matched images side by side for visual confirmation.
 
+[![Face Matching Application](images/face_matching_app.png)](https://example.com/face_matching_demo)
 
+---
 
-
-
-# Face Recognition and Matching Application(face_matching2.ipynb)
+# Face Recognition and Matching Application (face_matching2.ipynb)
 
 These codes use face recognition techniques to match faces from an uploaded image with known faces stored in a specified folder. It provides an interactive interface using IPython widgets for setting the matching threshold and selecting images for matching.
 
@@ -25,3 +25,4 @@ These codes use face recognition techniques to match faces from an uploaded imag
 - **Real-Time Matching**: Display matching results and matched images using OpenCV for visualization.
 - **Keyboard Monitoring**: Monitor keyboard events to control application flow (e.g., 'q' to quit).
 
+[![Face Recognition and Matching Application](images/face_recognition_app.png)](https://example.com/face_recognition_demo)
