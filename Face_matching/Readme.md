@@ -10,7 +10,7 @@ This repository contains a face matching application that utilizes OpenCV and fa
 - **Key Press Monitoring**: Monitor for key presses (e.g., 'q' to quit) to provide easy control over the application.
 - **Display Matching Results**: Show the matched images side by side for visual confirmation.
 
-[![Face Matching Application](images/face_matching_app.png)](https://example.com/face_matching_demo)
+[![Face Matching Application](images/face_matching_app.png)](Face_matching/face_matching.mp4)
 
 ---
 
