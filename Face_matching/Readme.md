@@ -29,11 +29,11 @@ These codes use face recognition techniques to match faces from an uploaded imag
 - **Real-Time Matching**: Display matching results and matched images using OpenCV for visualization.
 - **Keyboard Monitoring**: Monitor keyboard events to control application flow (e.g., 'q' to quit).
 
-### It additionally displays these parameters between the matched images :
-Distance: 0.5013734513690923
-Max Threshold: 0.7338584514863876
-Symmetric Metric Used: Euclidean distance
-Model Used: Face_recognition 
+## It additionally displays these parameters between the matched images :
+### Distance: 0.5013734513690923
+### Max Threshold: 0.7338584514863876
+### Symmetric Metric Used: Euclidean distance
+### Model Used: Face_recognition 
 
 *CLICK ON THE IMAGE FOR THE DEMONSTRATION VIDEO*
 [![Face Recognition and Matching Application](https://github.com/Nihar1402-iit/Face_recognition/assets/117573996/567ae39e-8e6a-45ce-a46c-d00ffdd2ec72)](https://drive.google.com/file/d/1HXKn4kkteoF3jjt5SP8ScNe_iWq-D-wq/view?usp=sharing)
