@@ -1,4 +1,4 @@
-# Face Recognition and Aadhaar Details Retrieval
+# Face Recognition and Aadhaar Details Retrieval and Live authentication web-app
 
 ## Overview
 
