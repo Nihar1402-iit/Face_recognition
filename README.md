@@ -3,7 +3,7 @@
 ## This repository contains all the face recognition related work done by me during my intern at **Corover**
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9gTr4Kl7TgNGYffr44eJJZwzQGq92rsW5Zw&s" alt="Corover logo" style="width: 200px;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9gTr4Kl7TgNGYffr44eJJZwzQGq92rsW5Zw&s" alt="Corover logo" style="width: 600px;">
 </p>
 
 
