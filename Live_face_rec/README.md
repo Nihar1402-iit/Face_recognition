@@ -43,4 +43,4 @@ The code is divided into several sections:
 [![Face Matching Application](https://github.com/Nihar1402-iit/Face_recognition/assets/117573996/b5387574-271f-4d33-97e4-47d3fc89ae85)](https://drive.google.com/file/d/1oddUzS4gmqVqDpWNNEdtbAWj3Wkz_a8y/view?usp=sharing)
 
 ## Live authentication before a meeting or an interview 
-[![Live authentication](https://github.com/Nihar1402-iit/Face_recognition/assets/117573996/4b515011-2891-41cc-95cd-63d57e851941)](https://drive.google.com/file/d/1oddUzS4gmqVqDpWNNEdtbAWj3Wkz_a8y/view?usp=sharing)
+[![Live authentication](https://github.com/Nihar1402-iit/Face_recognition/assets/117573996/4b515011-2891-41cc-95cd-63d57e851941)](https://drive.google.com/file/d/14XAD6j6DubGr4ZwY2vgGsGhZdzWv26ZV/view?usp=sharing)
