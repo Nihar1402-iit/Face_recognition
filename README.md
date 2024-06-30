@@ -1,4 +1,5 @@
 # Face_recognition
+## Please navigate to the respective folders to see the demo of the projects
 
 ## This repository contains all the face recognition related work done by me during my intern at **Corover**
 ### Face matching folder contains code of the project of matching images from the current image to their old aadhar photos for aadhar linkage and some parameters of the matching faces have also been displayed for better mapping
