@@ -3,7 +3,7 @@
 ## This repository contains all the face recognition related work done by me during my intern at **Corover**
 
 <div style="text-align: right;">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9gTr4Kl7TgNGYffr44eJJZwzQGq92rsW5Zw&s" alt="Corover logo" style="width: 40px;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9gTr4Kl7TgNGYffr44eJJZwzQGq92rsW5Zw&s" alt="Corover logo" style="width: 100px;">
 </div>
 
 ### Face matching folder contains code of the project of matching images from the current image to their old aadhar photos for aadhar linkage and some parameters of the matching faces have also been displayed for better mapping
